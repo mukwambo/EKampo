@@ -1,0 +1,3 @@
+This is a school file sharing system that allows students and lecturers share documents and announcements easily. It solves the problem faced by  the students in tyhe university which is late communication from the class reps i.e. lesson updates. 
+Furthermore, given that mostly class notes are shared via the class WhatsApp wall, the notes are likely lost or mixed up with the other irrelevant documnts sent to the wall by other students making it difficult to trace the for revision. This software wil help keep the notes at a centraluized place allowing quick access and preventing loss of the notes when one switches to a new phone.
+# EKampo
